@@ -1,32 +1,14 @@
-Massively by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Prudvi Raju - Portfolio
 
+## About  
+Welcome to my portfolio website! I am a **Power BI Developer, Data Analyst, and Aspiring Data Engineer** with a strong interest in **Microsoft Fabric** and financial data analytics. This website showcases my projects, skills, and expertise in **data visualization, analytics, and engineering**.
 
-This is Massively, a text-heavy, article-oriented design built around a huge background
-image (with a new parallax implementation I'm testing) and scroll effects (powered by
-Scrollex). A *slight* departure from all the one-pagers I've been doing lately, but one
-that fulfills a few user requests and makes use of some new techniques I've been wanting
-to try out. Enjoy it :)
+## Features  
+- **Interactive Dashboards** – Power BI reports and financial data insights  
+- **Projects Showcase** – Real-world use cases in **data analytics and engineering**  
+- **Skills & Tools** – Power BI, Microsoft Fabric, SQL, Python, DAX, M Query, and more  
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+## Technologies Used  
+- **Frontend:** HTML5, CSS3, JavaScript  
+- **Visualization:** Power BI Embedded (if applicable)  
+- **Hosting:** GitHub Pages
