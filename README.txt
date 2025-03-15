@@ -10,5 +10,5 @@ Welcome to my portfolio website! I am a **Power BI Developer, Data Analyst, and 
 
 ## Technologies Used  
 - **Frontend:** HTML5, CSS3, JavaScript  
-- **Visualization:** Power BI Embedded (if applicable)  
+- **Visualization:** Power BI Embedded
 - **Hosting:** GitHub Pages
